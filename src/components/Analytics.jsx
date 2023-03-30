@@ -19,7 +19,7 @@ export const Analytics = () => {
             perferendis dolorum ipsa modi dolorem unde, aspernatur facilis!
             Modi, id!
           </p>
-          <button className="bg-black w-[200px] rounded-md my-6 py-4 font-medium text-[#00df9a] mx-auto ">
+          <button className="bg-black w-[200px] rounded-md my-6 py-3 font-medium text-[#00df9a] mx-auto md:mx-0">
             Get Started
           </button>
         </div>
